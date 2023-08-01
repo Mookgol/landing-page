@@ -1,0 +1,28 @@
+#Heading{
+	background-color:#bed426 ;
+}
+p{
+	color: white;
+	font-weight: bold;
+}
+#age{
+	font-size:30pt;
+	font-style: italic;
+}
+img{
+	border-radius: 150px;
+	stroke-width: 2;
+}
+body{
+	background-size: cover;
+	background:url("https://i.guim.co.uk/img/media/a8657d8719755bcddbbed5b8d118e3220702416a/0_335_5155_3093/master/5155.jpg?width=700&dpr=2&s=none") no-repeat ;
+	width: 100%;
+}
+#profile_header{
+	text-align: center;
+	color: white;
+	font-style: italic;
+}
+a{
+	float: left;
+}
